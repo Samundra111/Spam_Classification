@@ -8,7 +8,7 @@ venv/
 # Ignore model checkpoints or large files
 *.h5
 *.pt
-*.pkl
+
 *.joblib
 
 # Ignore cache and temporary files
