@@ -1,0 +1,17 @@
+# Ignore virtual environment
+venv/
+
+# Ignore datasets and notebooks
+*.csv
+*.ipynb
+
+# Ignore model checkpoints or large files
+*.h5
+*.pt
+*.pkl
+*.joblib
+
+# Ignore cache and temporary files
+__pycache__/
+*.pyc
+.DS_Store
